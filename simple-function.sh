@@ -1,5 +1,5 @@
 # Define a function that prints a greeting
-function greeting {
+function greeting() {
   echo "Hello, $1!"
 }
 
