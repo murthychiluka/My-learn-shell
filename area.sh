@@ -6,4 +6,4 @@ calculate_area() {
 }
 
 # Call the function with two arguments
-calculate_area 5 10
+calculate_area 10 5
