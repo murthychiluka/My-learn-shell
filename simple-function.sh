@@ -4,4 +4,4 @@ function greeting {
 }
 
 # Call the greeting function with an argument
-greeting "world
+greeting "world"
