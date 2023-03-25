@@ -1,4 +1,4 @@
 # My-learn-shell
 
-added new line
+added new line /n
 test
