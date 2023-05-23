@@ -8,3 +8,9 @@ do
 cho $hero
 sleep 1
 done
+
+for I in {1..10}
+do
+echo $(date) > FILE-$I
+sleep 1
+done
