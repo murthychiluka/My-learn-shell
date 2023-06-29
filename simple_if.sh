@@ -1,4 +1,4 @@
-n=10
+n=1
 if [ $n -lt 10 ];
 then
 echo 'number is single digit number'
