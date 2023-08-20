@@ -5,7 +5,7 @@ done
 
 for hero in megastar powerstar superstar
 do
-cho $hero
+echo $hero
 sleep 1
 done
 
